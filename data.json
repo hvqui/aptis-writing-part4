@@ -1,0 +1,115 @@
+{
+    "title": "APTIS WRITING PRACTICE - PART 4",
+    "clubs": [
+        {
+            "id": "food-club",
+            "name": "FOOD CLUB",
+            "emailContext": "Dear members,\nWe are planning a series of meetings on Wednesday. We need volunteers to have a short talk about food. What will you talk about? Why do you think it is interesting?",
+            "emailContextTranslation": "(Gửi các thành viên,\nChúng tôi đang lên kế hoạch cho một chuỗi cuộc họp vào thứ Tư. Chúng tôi cần tình nguyện viên thực hiện một bài nói ngắn về chủ đề ẩm thực. Bạn sẽ nói về chủ đề gì? Tại sao bạn nghĩ chủ đề đó lại thú vị?)",
+            "informal": {
+                "instruction": "Write an email to your friend. Write about 50 words.",
+                "instructionTranslation": "(Viết một email cho bạn của bạn. Viết khoảng 50 từ.)",
+                "minWords": 40,
+                "maxWords": 60,
+                "sampleAnswer": "Hi Sy,\nLong time no see! I hope you are doing well! I just received an email from the food club about our club's meetings on Wednesday? Personally, I think we should volunteer for a short talk about traditional Vietnamese Street Food. This is because our street food is famous worldwide and has many unique flavors. What do you think? I’d love to hear your opinion!\nLove,\nQui.",
+                "sampleAnswerTranslation": "Chào Sỹ,\nLâu rồi không gặp! Tớ hy vọng cậu vẫn khỏe! Tớ vừa nhận được email từ câu lạc bộ ẩm thực về các buổi họp vào thứ Tư. Cá nhân tớ nghĩ chúng ta nên tình nguyện nói một bài ngắn về Ẩm thực đường phố truyền thống Việt Nam. Bởi vì món ăn đường phố của chúng ta nổi tiếng khắp thế giới và có nhiều hương vị độc đáo. Cậu nghĩ sao? Tớ rất muốn nghe ý kiến của cậu!\nThân mến,\nQuí."
+            },
+            "formal": {
+                "instruction": "Write an email to the manager of the club. Write about 120-150 words.",
+                "instructionTranslation": "(Viết một email cho quản lý câu lạc bộ. Viết khoảng 120-150 từ.)",
+                "minWords": 120,
+                "maxWords": 150,
+                "sampleAnswer": "Dear Sir,\nMy name is Ho Van Qui and I have been a member of the food club for three months. I hope this email finds you well. I am writing this email to share my thoughts on volunteering for a short talk at our upcoming club meetings on Wednesdays. I believe addressing this issue will benefit both the club and its members.\nFirstly, I would like to talk about the diversity of Vietnamese street food, specifically focusing on \"Pho\" and \"Banh Mi\". This is because these dishes are not only popular in Vietnam but also famous all over the world. Implementing this could show that the region in our country has a unique way of preparing them, reflecting our rich culture and history.\nAdditionally, we could share some tips on how to find the most authentic local food stalls in Hanoi. This would help members who want to experience real Vietnamese flavors. By doing so, I hope that my talk will bring a lively atmosphere to our meeting.\nI believe these suggestions will positively impact our club. Please let me know your thoughts and I would be happy with any necessary changes.\nThank you for your consideration.\nYours faithfully,\nHo Van Qui.",
+                "sampleAnswerTranslation": "Kính gửi Ngài Quản lý,\nTên tôi là Hồ Văn Quí và tôi đã là thành viên của câu lạc bộ ẩm thực được ba tháng. Tôi hy vọng email này tới tay ngài khi ngài vẫn khỏe. Tôi viết email này để chia sẻ suy nghĩ về việc tình nguyện trình bày một bài nói ngắn tại các buổi họp câu lạc bộ vào thứ Tư sắp tới. Tôi tin rằng việc đề cập đến chủ đề này sẽ mang lại lợi ích cho cả câu lạc bộ và các thành viên.\nĐầu tiên, tôi muốn nói về sự phong phú của ẩm thực đường phố Việt Nam, đặc biệt tập trung vào \"Phở\" và \"Bánh Mì\". Bởi vì những món ăn này không chỉ phổ biến ở Việt Nam mà còn nổi tiếng trên toàn thế giới. Việc thực hiện điều này có thể cho thấy mỗi vùng miền của nước ta có một cách chế biến độc đáo, phản ánh văn hóa và lịch sử phong phú của chúng ta.\nNgoài ra, chúng ta có thể chia sẻ một số mẹo về cách tìm những quán ăn địa phương chuẩn vị nhất ở Hà Nội. Điều này sẽ giúp ích cho những thành viên muốn trải nghiệm hương vị Việt Nam thực sự. Bằng cách đó, tôi hy vọng bài nói của mình sẽ mang lại không khí sôi nổi cho buổi họp.\nTôi tin rằng những gợi ý này sẽ ảnh hưởng tích cực đến câu lạc bộ. Xin vui lòng cho tôi biết suy nghĩ của ngài và tôi sẵn sàng thực hiện bất kỳ sự thay đổi cần thiết nào.\nCảm ơn ngài đã xem xét.\nTrân trọng,\nHồ Văn Quí."
+            }
+        },
+        {
+            "id": "book-club",
+            "name": "BOOK CLUB",
+            "emailContext": "Dear member,\nFrom next month we will no longer be able to continue our offer of one free book every month. Also, because of problems with our delivery service, please expect a wait 4-6 weeks before your order arrives.",
+            "emailContextTranslation": "(Gửi thành viên,\nTừ tháng sau, chúng tôi không còn có thể tiếp tục ưu đãi tặng một cuốn sách miễn phí mỗi tháng. Ngoài ra, do sự cố với dịch vụ giao hàng, vui lòng chờ từ 4-6 tuần trước khi đơn hàng của bạn tới nơi.)",
+            "informal": {
+                "instruction": "Write an email to your friend. Write about 50 words.",
+                "instructionTranslation": "(Viết một email cho bạn của bạn. Viết khoảng 50 từ.)",
+                "minWords": 40,
+                "maxWords": 60,
+                "sampleAnswer": "Hi Sy,\nLong time no see! I hope you are doing well.\nI just received an email from the Book club about the recent changes to the club's services.\nPersonally, I think we should offer members a discount on books.\nThis is because members can save money and continue enjoying books.\nAnother idea is to improve the delivery service so that members can receive their books faster.\nWhat do you think about this?\nLove,\nQui.",
+                "sampleAnswerTranslation": "Chào Sỹ,\nLâu rồi không gặp! Tớ hy vọng cậu vẫn khỏe.\nTớ vừa nhận được email từ Câu lạc bộ Sách về những thay đổi gần đây đối với các dịch vụ của câu lạc bộ.\nCá nhân tớ nghĩ chúng ta nên đề xuất giảm giá sách cho các thành viên.\nBởi vì các thành viên có thể tiết kiệm tiền và tiếp tục thưởng thức sách.\nMột ý tưởng khác là cải thiện dịch vụ giao hàng để các thành viên nhận được sách nhanh hơn.\nCậu nghĩ sao về điều này?\nThân mến,\nQuí."
+            },
+            "formal": {
+                "instruction": "Write an email to the manager of the club. Write about 120-150 words.",
+                "instructionTranslation": "(Viết một email cho quản lý câu lạc bộ. Viết khoảng 120-150 từ.)",
+                "minWords": 120,
+                "maxWords": 150,
+                "sampleAnswer": "Dear Sir,\nMy name is Ho Van Qui and I have been a member of the Book club for the past three months.\nI hope this email finds you well.\nI am writing to share my thoughts on the changes to the club's services.\nI believe addressing this issue will benefit both the club and its members.\nFirstly, I suggest offering members a discount on books.\nThis is because members can save money and continue enjoying books.\nImplementing this could encourage members to stay active in the club.\nAdditionally, we could improve the delivery service.\nThis would help members receive their books more quickly.\nBy doing so, we can improve member satisfaction and keep more members in the club.\nI believe these suggestions will positively impact our club.\nPlease let me know your thoughts, and I would be happy to assist with any necessary changes.\nThank you for your time and consideration.\nYours faithfully,\nHo Van Qui.",
+                "sampleAnswerTranslation": "Kính gửi Ngài Quản lý,\nTên tôi là Hồ Văn Quí và tôi đã là thành viên của Câu lạc bộ Sách trong ba tháng qua.\nTôi hy vọng email này tới tay ngài khi ngài vẫn khỏe.\nTôi viết thư này để chia sẻ suy nghĩ của mình về những thay đổi đối với dịch vụ của câu lạc bộ.\nTôi tin rằng việc giải quyết vấn đề này sẽ mang lại lợi ích cho cả câu lạc bộ và các thành viên.\nĐầu tiên, tôi đề xuất giảm giá sách cho các thành viên.\nBởi vì các thành viên có thể tiết kiệm tiền và tiếp tục thưởng thức sách.\nViệc áp dụng điều này có thể khuyến khích các thành viên duy trì hoạt động trong câu lạc bộ.\nNgoài ra, chúng ta có thể cải thiện dịch vụ giao hàng.\nĐiều này sẽ giúp thành viên nhận được sách nhanh hơn.\nBằng cách đó, chúng ta có thể nâng cao sự hài lòng của thành viên và giữ chân được nhiều thành viên hơn.\nTôi tin rằng những gợi ý này sẽ tác động tích cực đến câu lạc bộ của chúng ta.\nXin vui lòng cho tôi biết suy nghĩ của ngài và tôi rất sẵn lòng hỗ trợ mọi thay đổi cần thiết.\nCảm ơn thời gian và sự xem xét của ngài.\nTrân trọng,\nHồ Văn Quí."
+            }
+        },
+        {
+            "id": "computer-club",
+            "name": "COMPUTER CLUB",
+            "emailContext": "Dear members,\nWe are making some changes to the website because we want more people to join us. As you know, the website at the moment is very simple and we will be interested to hear some ideas about ways to make it more attractive and why you think it will attract more visitors.",
+            "emailContextTranslation": "(Gửi các thành viên,\nChúng tôi đang thực hiện một số thay đổi trên trang web vì muốn có thêm nhiều người tham gia cùng chúng ta. Như bạn đã biết, trang web hiện tại rất đơn giản và chúng tôi rất mong nghe một số ý tưởng về cách làm cho nó hấp dẫn hơn và lý do tại sao bạn nghĩ nó sẽ thu hút nhiều người truy cập hơn.)",
+            "informal": {
+                "instruction": "Write an email to your friend. Write about 50 words.",
+                "instructionTranslation": "(Viết một email cho bạn của bạn. Viết khoảng 50 từ.)",
+                "minWords": 40,
+                "maxWords": 60,
+                "sampleAnswer": "Hi Sy,\nLong time no see! I hope you're doing well.\nI just received an email from the Computer Club about how to make the club's website more attractive.\nPersonally, I think we should add more pictures and videos to the website.\nThis is because visitors can easily see the club's activities.\nAnother idea is to add members' success stories so that more people will want to join the club.\nWhat do you think? I'd love to hear your opinion!\nLove,\nQui.",
+                "sampleAnswerTranslation": "Chào Sỹ,\nLâu rồi không gặp! Tớ hy vọng cậu vẫn khỏe.\nTớ vừa nhận được email từ Câu lạc bộ Máy tính về cách làm cho trang web của câu lạc bộ trở nên hấp dẫn hơn.\nCá nhân tớ nghĩ chúng ta nên thêm nhiều hình ảnh và video hơn vào trang web.\nBởi vì khách truy cập có thể dễ dàng thấy được các hoạt động của câu lạc bộ.\nMột ý tưởng khác là thêm các câu chuyện thành công của thành viên để nhiều người muốn tham gia câu lạc bộ hơn.\nCậu nghĩ sao? Tớ rất muốn nghe ý kiến của cậu!\nThân mến,\nQuí."
+            },
+            "formal": {
+                "instruction": "Write an email to the manager of the club. Write about 120-150 words.",
+                "instructionTranslation": "(Viết một email cho quản lý câu lạc bộ. Viết khoảng 120-150 từ.)",
+                "minWords": 120,
+                "maxWords": 150,
+                "sampleAnswer": "Dear Sir,\nMy name is Ho Van Qui and I have been a member of the Computer club for the past three months.\nI hope this email finds you well.\nI am writing to share my thoughts on how to make the club's website more attractive.\nI believe addressing this issue will benefit both the club and its members.\nFirstly, I suggest adding more pictures and videos to the website.\nThis is because visitors can easily see the club's activities.\nImplementing this could encourage more people to visit the website and join the club.\nAdditionally, we could add members' success stories and information about upcoming events.\nThis would help visitors learn more about the club and its activities.\nBy doing so, we can make the website more attractive and attract more new members.\nI believe these suggestions will positively impact our club.\nPlease let me know your thoughts, and I would be happy to assist with any necessary changes.\nThank you for your time and consideration.\nYours faithfully,\nHo Van Qui.",
+                "sampleAnswerTranslation": "Kính gửi Ngài Quản lý,\nTên tôi là Hồ Văn Quí và tôi đã là thành viên của Câu lạc bộ Máy tính trong ba tháng qua.\nTôi hy vọng email này tới tay ngài khi ngài vẫn khỏe.\nTôi viết thư này để chia sẻ suy nghĩ về cách làm cho trang web của câu lạc bộ trở nên hấp dẫn hơn.\nTôi tin rằng việc giải quyết vấn đề này sẽ mang lại lợi ích cho cả câu lạc bộ và các thành viên.\nĐầu tiên, tôi đề xuất thêm nhiều hình ảnh và video hơn vào trang web.\nBởi vì khách truy cập có thể dễ dàng xem các hoạt động của câu lạc bộ.\nViệc thực hiện điều này có thể khuyến khích nhiều người ghé thăm trang web và tham gia câu lạc bộ hơn.\nNgoài ra, chúng ta có thể thêm các câu chuyện thành công của thành viên và thông tin về các sự kiện sắp tới.\nĐiều này sẽ giúp khách truy cập tìm hiểu thêm về câu lạc bộ và các hoạt động của nó.\nBằng cách đó, chúng ta có thể làm cho trang web hấp dẫn hơn và thu hút nhiều thành viên mới hơn.\nTôi tin rằng những gợi ý này sẽ tác động tích cực đến câu lạc bộ.\nXin vui lòng cho tôi biết suy nghĩ của ngài và tôi rất sẵn lòng hỗ trợ mọi thay đổi cần thiết.\nCảm ơn thời gian và sự xem xét của ngài.\nTrân trọng,\nHồ Văn Quí."
+            }
+        },
+        {
+            "id": "business-club",
+            "name": "BUSINESS CLUB",
+            "emailContext": "Dear member,\nCurrently our club is planning to support local individuals who want to start up a small business. The club has 2 proposals: First, create a call center where customers can call to ask questions and request help. Second, create free courses to support local universities nearby. Let us know which option you would use and why.",
+            "emailContextTranslation": "(Gửi thành viên,\nHiện tại câu lạc bộ của chúng ta đang lên kế hoạch hỗ trợ các cá nhân tại địa phương muốn khởi nghiệp kinh doanh nhỏ. Câu lạc bộ có 2 đề xuất: Thứ nhất, tạo một tổng đài tư vấn nơi khách hàng có thể gọi để hỏi và yêu cầu trợ giúp. Thứ hai, tạo các khóa học miễn phí để hỗ trợ các trường đại học lân cận. Hãy cho chúng tôi biết bạn chọn phương án nào và tại sao.)",
+            "informal": {
+                "instruction": "Write a letter to a friend about your choice and the idea. Write about 50 words.",
+                "instructionTranslation": "(Viết thư cho một người bạn về lựa chọn và ý tưởng của bạn. Viết khoảng 50 từ.)",
+                "minWords": 40,
+                "maxWords": 60,
+                "sampleAnswer": "Hi Sy,\nI hope you’re doing well! I wanted to share something exciting. Our Business Club is planning to help people start small businesses. There are two ideas: a call center for customer support or free courses for local universities.\nI think the free courses are a great idea. They can help students learn useful skills and get ready to run their own businesses. What do you think?\nTake care,\nQui.",
+                "sampleAnswerTranslation": "Chào Sỹ,\nTớ hy vọng cậu vẫn khỏe! Tớ muốn chia sẻ điều này rất thú vị. Câu lạc bộ Kinh doanh của chúng tớ đang lên kế hoạch giúp đỡ mọi người khởi nghiệp kinh doanh nhỏ. Có hai ý tưởng: một tổng đài hỗ trợ khách hàng hoặc các khóa học miễn phí cho các trường đại học địa phương.\nTớ nghĩ các khóa học miễn phí là một ý tưởng tuyệt vời. Chúng có thể giúp sinh viên học các kỹ năng hữu ích và sẵn sàng tự vận hành doanh nghiệp của riêng mình. Cậu nghĩ sao?\nBảo trọng,\nQuí."
+            },
+            "formal": {
+                "instruction": "Write a letter to the club manager about your choice and why. Write about 120-150 words.",
+                "instructionTranslation": "(Viết thư cho quản lý câu lạc bộ về lựa chọn của bạn và lý do. Viết khoảng 120-150 từ.)",
+                "minWords": 120,
+                "maxWords": 150,
+                "sampleAnswer": "Dear Sir,\nI hope this email finds you well. I am writing in response to the recent email regarding the club's plan to support local individuals in starting small businesses. I truly appreciate the club’s efforts to encourage and assist future entrepreneurs.\nAfter considering the two proposals, I believe that creating free courses for local universities nearby would be the better option. These courses can provide students with essential knowledge about starting and running a business, such as financial management, marketing strategies, and customer service skills. This approach will help them build confidence and prepare for real-world challenges.\nAdditionally, offering these courses could inspire students to start their businesses earlier and create a strong connection between the club and the local community. It would also be more sustainable as the skills taught in these courses can have long-term benefits.\nThank you for considering my opinion. I look forward to hearing more about the club's plans.\nYours faithfully,\nHo Van Qui.",
+                "sampleAnswerTranslation": "Kính gửi Ngài Quản lý,\nTôi hy vọng email này tới tay ngài khi ngài vẫn khỏe. Tôi viết thư này để phản hồi lại email gần đây liên quan đến kế hoạch của câu lạc bộ nhằm hỗ trợ các cá nhân địa phương khởi nghiệp kinh doanh nhỏ. Tôi thực sự đánh giá cao những nỗ lực của câu lạc bộ trong việc khuyến khích và hỗ trợ các doanh nhân tương lai.\nSau khi xem xét hai đề xuất, tôi tin rằng việc tạo ra các khóa học miễn phí cho các trường đại học lân cận sẽ là lựa chọn tốt hơn. Các khóa học này có thể cung cấp cho sinh viên những kiến thức thiết yếu về việc khởi nghiệp và vận hành doanh nghiệp, chẳng hạn như quản lý tài chính, chiến lược marketing và kỹ năng dịch vụ khách hàng. Cách tiếp cận này sẽ giúp họ xây dựng sự tự tin và chuẩn bị cho những thách thức thực tế.\nNgoài ra, việc cung cấp các khóa học này có thể truyền cảm hứng cho sinh viên khởi nghiệp sớm hơn và tạo mối kết nối mạnh mẽ giữa câu lạc bộ với cộng đồng địa phương. Nó cũng sẽ bền vững hơn vì những kỹ năng được dạy trong các khóa học này có mang lại lợi ích lâu dài.\nCảm ơn ngài đã xem xét ý kiến của tôi. Tôi rất mong được nghe thêm về các kế hoạch của câu lạc bộ.\nTrân trọng,\nHồ Văn Quí."
+            }
+        },
+        {
+            "id": "car-club",
+            "name": "CAR CLUB",
+            "emailContext": "There will be a car program taking place across Europe. The program invites the Car club to nominate two representatives-one as the main driver and the other as a passenger-both of whom must possess strong driving skills. Do you have any suggestions for these positions?",
+            "emailContextTranslation": "(Sẽ có một chương trình ô tô diễn ra trên khắp Châu Âu. Chương trình mời Câu lạc bộ Ô tô đề cử 2 đại diện - một người lái xe chính và một người đi kèm - cả hai đều phải có kỹ năng lái xe tốt. Bạn có gợi ý nào cho các vị trí này không?)",
+            "informal": {
+                "instruction": "Write an email to your friend about your feelings and what you would like to do. Write about 50 words.",
+                "instructionTranslation": "(Viết một email cho bạn của bạn về cảm xúc của bạn và những gì bạn muốn làm. Viết khoảng 50 từ.)",
+                "minWords": 40,
+                "maxWords": 60,
+                "sampleAnswer": "Hi Sy,\nI just heard about the car program happening across Europe, and I feel so excited! It’s amazing that our Car club gets to nominate two representatives. I would love to participate, maybe as the passenger, since I have good driving skills and enjoy traveling. What about you? I think we could make a great team. Let’s discuss this soon!\nTake care,\nQui.",
+                "sampleAnswerTranslation": "Chào Sỹ,\nTớ vừa nghe về chương trình ô tô diễn ra khắp Châu Âu, và tớ cảm thấy rất hào hứng! Thật tuyệt vời khi Câu lạc bộ Ô tô của chúng tớ được đề cử hai đại diện. Tớ rất muốn tham gia, có thể với tư cách là hành khách đi kèm, vì tớ có kỹ năng lái xe tốt và thích đi du lịch. Còn cậu thì sao? Tớ nghĩ chúng ta có thể tạo thành một đội tuyệt vời. Hãy thảo luận về điều này sớm nhé!\nBảo trọng,\nQuí."
+            },
+            "formal": {
+                "instruction": "Write an email to the manager of the club. Write about 120-150 words.",
+                "instructionTranslation": "(Viết một email cho quản lý câu lạc bộ. Viết khoảng 120-150 từ.)",
+                "minWords": 120,
+                "maxWords": 150,
+                "sampleAnswer": "Dear Sir,\nI hope you are doing well. I am writing to share my ideas for selecting representatives for the upcoming car program across Europe. This is an exciting event, and I believe we should choose candidates who are experienced and reliable.\nFirstly, I suggest John for the main driver position. He has outstanding driving skills and a lot of experience managing long trips safely. Secondly, for the passenger role, I recommend Lisa, who is excellent at navigation and quick decision-making, making them a perfect support for the driver. Together, they would form a strong and dependable team.\nI believe these two members will represent our club well and help make this program a success. Please let me know if any additional suggestions are needed.\nThank you for your time and consideration.\nYours faithfully,\nHo Van Qui.",
+                "sampleAnswerTranslation": "Kính gửi Ngài Quản lý,\nTôi hy vọng ngài vẫn khỏe. Tôi viết thư này để chia sẻ ý kiến của mình về việc lựa chọn đại diện cho chương trình ô tô sắp tới trên khắp Châu Âu. Đây là một sự kiện thú vị và tôi tin rằng chúng ta nên chọn những ứng viên có kinh nghiệm và đáng tin cậy.\nĐầu tiên, tôi đề xuất John cho vị trí lái xe chính. Anh ấy có kỹ năng lái xe xuất sắc và nhiều kinh nghiệm xử lý các chuyến đi xa một cách an toàn. Thứ hai, đối với vai trò hành khách đồng hành, tôi tiến cử Lisa, người rất giỏi về định vị dẫn đường và đưa ra quyết định nhanh chóng, trở thành sự hỗ trợ hoàn hảo cho người lái xe. Cùng nhau, họ sẽ tạo thành một đội mạnh mẽ và đáng tin cậy.\nTôi tin rằng hai thành viên này sẽ đại diện tốt cho câu lạc bộ của chúng ta và giúp chương trình này thành công. Xin vui lòng cho tôi biết nếu cần thêm bất kỳ gợi ý nào.\nCảm ơn thời gian và sự xem xét của ngài.\nTrân trọng,\nHồ Văn Quí."
+            }
+        }
+    ]
+}

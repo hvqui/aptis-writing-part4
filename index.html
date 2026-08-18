@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aptis Writing Practice (Part 4)</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="header-bar">
+            <h1 id="appTitle">APTIS WRITING PRACTICE - PART 4</h1>
+            <div class="timer-box" id="timer">⏱️ Thời gian: 00:00</div>
+        </div>
+
+        <div class="controls-bar">
+            <div class="select-group">
+                <label for="clubSelect">Chủ đề (Club):</label>
+                <select id="clubSelect"></select>
+            </div>
+            <div class="nav-tabs">
+                <button type="button" class="tab-btn active" id="tabInformal">Task 1 (Email Thân Mật)</button>
+                <button type="button" class="tab-btn" id="tabFormal">Task 2 (Email Trang Trọng)</button>
+            </div>
+        </div>
+
+        <!-- Thông báo email từ Club -->
+        <div class="email-context-box">
+            <div class="context-title">📨 Thông báo từ Club (Club Email):</div>
+            <div class="context-body" id="emailContextText"></div>
+        </div>
+
+        <form id="quizForm">
+            <!-- Task 1 Section -->
+            <div id="informalSection" class="task-section active">
+                <div class="instruction" id="infInstruction"></div>
+                <div class="question-block">
+                    <textarea id="infAnswer" lang="en" spellcheck="true"
+                        placeholder="Type your informal email to your friend here (~50 words)..."></textarea>
+                    <div class="word-count" id="infWordCount">Số từ: 0 (Mục tiêu: 40-60 từ)</div>
+                    <div class="result-box" id="infResult"></div>
+                </div>
+            </div>
+
+            <!-- Task 2 Section -->
+            <div id="formalSection" class="task-section">
+                <div class="instruction" id="formInstruction"></div>
+                <div class="question-block">
+                    <textarea id="formAnswer" lang="en" spellcheck="true"
+                        placeholder="Type your formal email to the club manager here (120-150 words)..."></textarea>
+                    <div class="word-count" id="formWordCount">Số từ: 0 (Mục tiêu: 120-150 từ)</div>
+                    <div class="result-box" id="formResult"></div>
+                </div>
+            </div>
+
+            <div class="btn-container">
+                <button type="button" id="checkBtn">Kiểm Tra Kết Quả</button>
+                <button type="button" id="resetBtn" class="secondary-btn">Reset Tất Cả</button>
+            </div>
+        </form>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
